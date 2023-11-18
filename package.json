@@ -1,0 +1,24 @@
+{
+  "name": "log-ingestor-system",
+  "version": "1.0.0",
+  "description": "log ingestor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ingest-logs": "node ingestLogs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahlly/Log-Ingestor-System.git"
+  },
+  "keywords": [
+    "logs",
+    "datas"
+  ],
+  "author": "wahllywest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahlly/Log-Ingestor-System/issues"
+  },
+  "homepage": "https://github.com/wahlly/Log-Ingestor-System#readme"
+}
